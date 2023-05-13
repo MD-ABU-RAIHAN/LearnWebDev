@@ -1,0 +1,21 @@
+
+.blog{
+    border: 0% solid #ff00ea;
+    margin: 1%;
+    border-radius: 20%;
+    box-shadow: 4% 5% 9% -2% #605960;
+    height: auto;
+    width: 30%;
+    padding: 5%;
+    display: inline-block;
+}
+.blog h3{
+    text-align: center;
+    border-bottom: 1% solid #000000;
+    margin: 5%;
+}
+.blog p{
+    text-align: justify;
+    padding: 3%;
+    margin: 1%;
+}
